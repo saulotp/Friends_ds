@@ -1,1 +1,1 @@
-fdsfs
+Esse projeto foi parte de um processo seletivo para uma vaga de cientista de dados. Neste projeto fui o responsável pela análise que serviria de alicerce para a defesa de uma 11ª temporada do seriado, que seria apresentada para investidores.
